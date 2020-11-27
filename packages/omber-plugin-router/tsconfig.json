@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+        "moduleResolution": "node",
+        "target": "es5",
+        "outDir": "./lib",
+        "module": "commonjs",
+        "strict": true,
+        "declaration": true,
+        "skipLibCheck": true,
+        "esModuleInterop": true,
+        "lib": [
+            "esnext",
+            "dom"
+        ]
+    },
+}
